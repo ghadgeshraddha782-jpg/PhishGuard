@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets.toml
+
+# Frontend dependencies and build
+node_modules/
+dist/
+
+# Local databases
+*.db
+*.sqlite3
+
+# Editor files
+.vscode/
+.DS_Store

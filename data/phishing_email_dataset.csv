@@ -1,0 +1,2231 @@
+email_id,sender,sender_domain,subject,body,urls,attachment_name,label
+EMAIL-0373,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0260,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0079,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0003,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0076,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0427,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0474,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0211,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0096,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0110,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0351,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0597,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0066,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0433,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0067,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0496,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0368,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0147,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0183,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0573,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0235,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0561,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0493,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0344,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0520,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0091,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0197,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0353,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0576,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0036,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0297,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0307,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0165,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0489,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0072,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0535,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0213,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0055,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0287,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0029,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0579,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0314,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0541,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0366,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0393,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0592,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0430,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0050,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0394,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0310,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0135,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0301,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0546,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0554,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0421,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0585,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0016,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0199,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0264,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0025,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0398,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0184,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0159,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0237,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0584,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0190,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0295,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0326,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0202,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0271,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0163,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0440,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0046,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0478,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0201,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0487,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0459,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0193,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0134,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0022,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0203,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0191,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0574,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0392,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0056,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0262,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0188,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0293,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0164,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0303,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0186,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0441,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0108,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0005,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0180,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0176,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0450,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0236,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0196,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0572,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0200,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0087,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0528,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0270,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0386,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0328,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0290,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0228,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0349,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0525,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0101,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0347,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0229,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0563,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0565,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0219,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0424,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0019,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0300,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0506,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0299,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0400,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0068,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0521,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0057,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0325,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0112,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0026,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0472,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0484,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0033,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0599,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0247,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0388,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0333,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0457,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0122,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0082,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0012,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0443,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0060,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0476,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0232,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0256,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0234,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0367,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0097,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0540,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0174,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0582,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0537,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0402,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0523,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0115,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0513,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0492,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0149,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0526,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0357,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0372,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0458,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0596,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0364,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0088,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0534,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0524,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0018,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0035,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0422,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0154,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0261,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0405,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0544,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0192,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0483,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0063,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0121,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0449,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0511,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0070,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0588,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0075,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0215,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0040,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0469,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0332,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0567,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0480,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0058,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0425,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0531,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0216,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0004,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0401,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0080,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0041,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0470,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0411,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0462,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0412,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0387,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0556,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0435,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0258,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0113,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0454,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0361,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0570,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0069,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0374,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0221,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0566,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0438,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0161,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0348,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0194,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0160,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0545,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0468,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0049,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0273,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0532,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0530,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0419,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0223,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0169,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0001,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0212,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0132,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0503,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0104,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0198,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0594,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0255,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0377,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0342,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0023,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0408,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0010,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0383,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0339,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0453,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0103,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0242,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0595,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0074,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0127,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0178,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0106,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0291,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0278,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0508,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0445,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0543,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0083,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0171,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0315,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0179,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0266,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0428,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0560,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0499,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0093,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0488,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0337,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0312,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0090,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0281,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0509,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0011,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0542,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0047,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0014,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0417,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0494,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0222,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0562,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0527,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0288,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0253,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0277,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0257,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0140,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0207,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0522,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0240,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0064,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0598,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0308,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0158,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0085,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0330,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0329,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0073,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0137,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0475,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0341,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0279,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0362,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0491,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0102,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0571,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0324,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0120,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0037,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0420,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0395,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0148,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0416,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0017,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0403,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0505,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0305,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0338,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0210,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0002,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0322,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0039,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0283,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0089,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0123,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0081,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0557,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0136,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0504,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0321,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0107,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0051,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0481,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0031,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0318,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0564,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0418,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0220,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0593,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0153,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0227,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0486,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0490,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0510,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0116,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0317,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0396,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0311,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0214,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0286,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0061,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0128,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0456,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0156,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0289,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0077,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0533,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0410,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0352,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0323,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0296,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0038,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0497,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0206,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0034,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0059,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0551,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0550,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0538,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0442,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0467,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0600,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0246,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0241,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0146,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0294,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0007,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0053,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0517,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0327,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0384,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0358,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0150,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0429,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0583,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0024,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0141,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0065,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0274,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0363,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0008,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0155,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0092,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0185,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0117,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0152,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0100,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0577,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0145,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0464,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0269,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0390,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0302,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0516,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0461,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0501,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0379,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0539,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0413,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0095,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0448,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0391,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0275,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0381,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0591,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0162,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0099,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0370,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0062,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0119,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0129,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0434,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0507,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0233,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0463,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0512,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0590,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0282,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0382,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0218,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0177,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0272,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0284,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0243,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0189,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0298,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0340,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0514,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0549,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0355,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0208,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0114,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0151,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0048,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0009,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0406,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0559,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0252,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0365,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0331,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0244,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0354,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0455,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0569,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0460,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0251,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0209,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0369,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0529,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0044,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0098,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0265,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0006,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0568,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0142,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0465,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0360,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0306,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0451,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0144,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0175,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0133,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0409,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0182,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0518,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0250,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0094,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0167,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0436,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0555,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0015,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0173,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0195,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0343,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0313,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0292,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0238,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0536,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0125,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0231,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0452,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0143,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0045,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0589,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0426,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0126,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0437,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0166,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0138,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0304,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0375,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0423,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0587,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0239,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0248,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0397,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0276,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0515,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0414,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0316,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0580,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0334,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0495,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0268,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0376,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0181,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0446,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0552,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0471,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0371,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0444,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0109,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0502,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0431,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0013,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0350,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0519,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0558,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0380,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0581,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0356,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0043,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0124,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0309,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0105,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0249,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0078,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0204,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0407,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0385,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0320,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0027,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0111,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0319,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0168,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0548,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0172,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0378,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0263,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0477,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0224,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0118,support@service.example.net,service.example.net,Your Support Ticket Update,"Hello,
+
+Your support ticket has been updated. You can review the status through the official support portal.
+
+Regards,
+Support Team",https://service.example.net/support,,LEGITIMATE
+EMAIL-0485,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0130,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0245,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0157,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0021,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0205,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0254,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0032,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0042,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0071,events@university.example.edu,university.example.edu,Upcoming College Event,"Hello Students,
+
+The annual technology event will be held next week. Please check the official event page for the schedule and venue.
+
+Regards,
+Event Committee",https://university.example.edu/events,,LEGITIMATE
+EMAIL-0230,hr@business.example.com,business.example.com,Monthly Employee Newsletter,"Hello Everyone,
+
+Please find this month's employee newsletter attached. It contains updates about upcoming activities and events.
+
+Regards,
+HR Team",https://business.example.com/newsletter,newsletter.pdf,LEGITIMATE
+EMAIL-0359,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0054,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0553,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0020,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0482,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0084,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0259,accounts@finance.example.org,finance.example.org,Monthly Account Statement,"Hello,
+
+Your monthly account statement is now available. You can review it through the official account portal.
+
+Regards,
+Accounts Team",https://finance.example.org/account,statement.pdf,LEGITIMATE
+EMAIL-0432,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0285,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0575,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0346,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0335,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0466,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0217,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0336,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0389,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0267,payroll@enterprise.example.net,enterprise.example.net,Salary Slip Available,"Hello,
+
+Your salary slip for this month is available in the employee portal. Please use the official payroll system to view the document.
+
+Regards,
+Payroll Team",https://enterprise.example.net/payroll,salary_slip.pdf,LEGITIMATE
+EMAIL-0052,research@institute.example.edu,institute.example.edu,Research Meeting Notes,"Hello Team,
+
+The notes from today's research meeting are available. Please review the document before the next scheduled discussion.
+
+Regards,
+Research Team",https://institute.example.edu/research,meeting_notes.pdf,LEGITIMATE
+EMAIL-0187,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0473,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0139,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0439,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0086,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0586,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0578,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0404,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0028,training@company.example.org,company.example.org,Cybersecurity Workshop Reminder,"Hello Team,
+
+This is a reminder about the cybersecurity workshop scheduled for tomorrow at 10 AM. Please join using the official meeting calendar invitation.
+
+Regards,
+Training Team",https://company.example.org/workshop,workshop_schedule.pdf,LEGITIMATE
+EMAIL-0547,invoice@finance-alert.invalid.test,finance-alert.invalid.test,Final Notice: Invoice Payment,FINAL NOTICE! Your invoice is overdue. Payment must be completed immediately or your account will be reported and suspended.,http://finance.invalid.test/payment,invoice.pdf.exe,PHISHING
+EMAIL-0131,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0479,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0170,admin@organization.example.org,organization.example.org,Office Schedule Update,"Hello Everyone,
+
+The office schedule for next month has been updated. Please review the official schedule for working days and holidays.
+
+Regards,
+Administration",https://organization.example.org/schedule,,LEGITIMATE
+EMAIL-0415,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Your Account Will Be Suspended!,URGENT! Your account will be suspended immediately. Verify your password and account information now to avoid permanent suspension. Click the link below immediately.,http://198.51.100.10/verify-account,,PHISHING
+EMAIL-0345,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0399,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0030,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
+EMAIL-0498,payment-team@billing-alert.invalid.test,billing-alert.invalid.test,Immediate Payment Required,Your payment could not be processed. You must provide your payment information immediately to prevent your account from being closed.,http://payment-check.invalid.test/login,,PHISHING
+EMAIL-0447,account-security@verify.invalid.test,verify.invalid.test,Password Verification Required,"Dear Customer,
+
+We detected unusual activity on your account. Please confirm your username and password immediately to secure your account.",http://verify.invalid.test/account/password,,PHISHING
+EMAIL-0280,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0225,library@campus.example.edu,campus.example.edu,Library Book Reminder,"Hello,
+
+This is a reminder that the books currently issued to you are due next week. Please use the library portal to view your current loans.
+
+Regards,
+Library Team",https://campus.example.edu/library,,LEGITIMATE
+EMAIL-0500,rewards@prize.invalid.test,prize.invalid.test,Congratulations! You Won a Prize,Congratulations! You have been selected for an exclusive reward. Claim your prize immediately by providing your personal information.,http://reward.invalid.test/claim,,PHISHING
+EMAIL-0226,it-support@technology.example.com,technology.example.com,Scheduled System Maintenance,"Hello Team,
+
+The internal system is scheduled for routine maintenance this weekend. Some services may be temporarily unavailable.
+
+Regards,
+IT Support",https://technology.example.com/maintenance,maintenance_notice.pdf,LEGITIMATE
